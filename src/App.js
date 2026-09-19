@@ -1,7 +1,7 @@
 
 function App() {
   return (
-    <h1>Nishtha</h1>
+    <h1>Nishtha Anganeja</h1>
   );
 }
 
